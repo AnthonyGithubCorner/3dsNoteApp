@@ -8,7 +8,7 @@ A simple note app for the nintendo 3ds for non permanent note taking
 - Eraser
 - undo and redo (right and left arrows)
 - 10 pages to go through (up and down arrows)
-- Clear the page quickly (red X)
+- Clear the page (red X)
 
 ## Key Commands
 
