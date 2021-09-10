@@ -12,12 +12,13 @@ A simple note app for the nintendo 3ds for non permanent note taking
 
 ## Key Commands
 
-----------------
-X | Clear Screen
-Right Trigger  | Redo
-Left Trigger  | Undo
-Dpad Up | Page Up
-Dpad Down | Page Down
+| Button        | Function     |
+|---------------|--------------|
+| X             | Clear Screen |
+| Right Trigger | Redo         |
+| Left Trigger  | Undo         |
+| Dpad Up       | Page Up      |
+| Dpad Down     | Page Down    |
 
 ## TODO
 
